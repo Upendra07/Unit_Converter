@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/speed"
+        android:icon="@drawable/ic_speed"
+        android:title="@string/speed" />
+    <item
+        android:id="@+id/time"
+        android:title="@string/time"
+        android:icon="@drawable/ic_time"/>
+    <item
+        android:id="@+id/temperature"
+        android:title="@string/temperature"
+        android:icon="@drawable/ic_temperature"/>
+    <item
+        android:id="@+id/mass"
+        android:title="@string/mass"
+        android:icon="@drawable/ic_mass"/>
+    <item
+        android:id="@+id/length"
+        android:title="@string/length"
+        android:icon="@drawable/ic_length"/>
+
+</menu>
